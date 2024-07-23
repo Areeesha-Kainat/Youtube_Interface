@@ -1,0 +1,37 @@
+.btn1{
+    width: 40%;
+    margin-left: 20%;
+    border-radius: 10px;
+    }
+
+ ul{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    
+}
+
+        a{
+            text-decoration: none;
+            font-size: 18px;
+            background-color: rgb(231, 231, 231) ;
+       
+    
+        }
+        
+        p:hover{
+            background-color: rgb(201, 201, 201) ;
+        }
+       
+      .btn{
+            margin-left: 20px;
+        }
+        
+
+  
